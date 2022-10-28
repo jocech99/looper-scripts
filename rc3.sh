@@ -119,7 +119,7 @@ function backup()
 #-----------------------------------------
 function restore()
 {
-    check_rc2_connected
+    check_rc3_connected
     echo "Restoring backup: $1"
 }
 
