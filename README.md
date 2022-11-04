@@ -1,5 +1,5 @@
 # Looper scripts
-Usage:  rc3 COMMAND [Arguments]
+Usage:  rc3.sh (or rc5.sh) COMMAND [Arguments]
 
 Suppored commands: 
 * ***backup***:   Save the entire content of the RC5 to a backup file  
